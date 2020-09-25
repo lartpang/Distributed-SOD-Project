@@ -78,6 +78,7 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
   + https://zhuanlan.zhihu.com/p/98535650
 * 一系列的官方文档: https://pytorch.org/tutorials/intermediate/ddp_tutorial.html
 * 其他的:
+  + Pytorch多GPU的计算和Sync BatchNorm - ldblink的文章 - 知乎 https://zhuanlan.zhihu.com/p/69940683
   + https://zhuanlan.zhihu.com/p/113694038
   + https://oldpan.me/archives/pytorch-to-use-multiple-gpus
   + https://www.cnblogs.com/yh-blog/p/12877922.html
